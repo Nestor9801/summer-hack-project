@@ -5,10 +5,13 @@
 # Asistente Inteligente de Servicios (MexaBot)
 
 ### Es una plataforma web que ayuda a las personas con la realización de sus trámites mediante la ayuda de un bot que responde a diversas perguntas relacionadas a lo que pregunte el usuario. Se busca que las personas puedan hacer todos sus trámites desde casa, sin necesidad de salir, ya que con la pandemia se ha vuelto más indespensable servicios de este estilo.
-<p><a href="https://optimusprime.azurewebsites.net/" target="_blank"> [Link de acceso a proyecto]</a>![Picture3](https://user-images.githubusercontent.com/54288868/127776623-e90f0790-0f8e-4c96-9820-8e5034cccbbb.jpg)
+<p><a href="https://optimusprime.azurewebsites.net/" target="_blank"> [Link de acceso a proyecto]</a>
 </p>
 
 ### Link al Tiktok
+<p><a href="https://vm.tiktok.com/ZMd3eYMYV/" target="_blank"> [Tik-Tok]</a>
+</p>
+
 
 ### Diagrama de Azure
 ![Picture1](https://user-images.githubusercontent.com/54288868/127776306-6dd036f0-e509-4aa8-bf99-b4e3e7638c79.png)
